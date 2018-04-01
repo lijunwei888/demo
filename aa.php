@@ -1,1 +1,2 @@
-echo 'hello git';
+<?php
+ echo "this is git test";
